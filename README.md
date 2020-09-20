@@ -1,5 +1,5 @@
-Practice Problems is a directory used to get prepeared for technical interviews.
-languages used here are JS, Python, and Java.
+Calebs-Playground is a repo deticated scratch ( practice ) programs deticated to learning a feature, technique, design pattern, etc...
+languages used here are JS, Python, Cpp, and Java.
 
 
 
